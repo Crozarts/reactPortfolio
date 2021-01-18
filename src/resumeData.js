@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://crozarts.github.io/portfolio/",
     "name": "Andrew Crosby",
     "role": "Full Stack Developer and Graduate of Rutgers Bootcamp Fall 2020 Program ",
     "linkedinId":"Your LinkedIn Id",
@@ -8,7 +8,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/andrew-crosby-0914311b8/",
           "className":"fa fa-linkedin"
         },
         {
@@ -18,7 +18,7 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/FullStackCroz",
           "className":"fa fa-twitter"
         }
       ],
@@ -32,29 +32,22 @@ let resumeData = {
         "MonthOfPassing":"Jan",
         "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"ID Clothing Inc.",
+        "specialization":"Specialized in Direct to Garment, Digital, and Screen Printing production",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2020",
+        "Achievements":"created custom apparel for companies and sports teams. Also specialized in Digital Production creating banners, stickers, signs, and other printable advertisments"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Metro Printing",
+        "specialization":"Printing assistant and Shipping",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Started working with 0 knowledge on printing production. Taught myself the how to screenprint and how the general flow of production works."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -71,24 +64,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Quiz Assignment",
+        "description":"I have created a skateboarding quiz utilizing with a timer and a score renderer upon completion",
+        "imgurl":"images/portfolio/quizHW.gif"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Password Generator",
+        "description":"I created a Password Generator utilizing javascript modals and the starter code provided by Rutgers curriculum.",
+        "imgurl":"images/portfolio/passwordGen.gif"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Weather Dashboard",
+        "description":"Created a weather dashboard to give you a 5 day weather forcast utilzing openWeather Api",  
+        "imgurl":"images/portfolio/weatherDash.gif"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"ReadMe Generator",
+        "description":"For this assignment, we were instructed to create a ReadMe.md generator using Node.js.",
+        "imgurl":"images/portfolio/readMeGen.gif"
       }
     ]
   }
